@@ -9,6 +9,17 @@
   - type: Sprite
     sprite: _Mono/Clothing/Back/Duffels/di.rsi
 
+- type: entity # Forge-Change
+  parent: NFClothingDuffel
+  id: ClothingBackpackDuffelNexus
+  name: nexus duffel
+  suffix: Nexus
+  description: Branded Nexus duffel bag.
+  components:
+  - type: Sprite
+    sprite: _Mono/Clothing/Back/Duffels/duffels_nexus.rsi # Forge-Change
+
+
 #custom colored tactical duffels
 #(their hex code is that of helmet covers but darkenned by 5% because it looked like shit otherwise)
 

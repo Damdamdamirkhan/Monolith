@@ -14,3 +14,8 @@ ent-ClothingNeckColonelCloak = плащ командующего офицера 
     .desc = Официальный плащ ТСФ для командующего офицера с полномочиями в секторе, с нашивками звания и отделкой.
 ent-ClothingNeckCaptainCloak = плащ капитана ТСФ
     .desc = Стильный плащ ТСФ для капитана и исполнительного офицера морского десанта.
+
+#Company branded
+# Forge-Change
+ent-ClothingNeckCloakNexus = плащ Nexus
+    .desc = Стильный плащ Nexus.

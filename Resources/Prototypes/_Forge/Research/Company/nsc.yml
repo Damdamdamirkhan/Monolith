@@ -15,6 +15,13 @@
   - ClothingHeadHatNexusCap
   - ClothingHeadHatNexusStarBeret
   - ClothingHeadHatNexusGarrisonCap
+  - ClothingBackpackDuffelNexus # Forge-Change
+  - ClothingBackpackSatchelNexus # Forge-Change
+  - ClothingBackpackNexus # Forge-Change
+  - ClothingHeadsetNexus # Forge-Change
+  - ClothingNeckCloakNexus # Forge-Change
+  - ClothingBackpackMessengerNexus # Forge-Change
+  - ClothingNeckMantleNexus # Forge-Change
   technologyPrerequisites:
   - UniversalMaterialResearchT1
   position: 0, 0

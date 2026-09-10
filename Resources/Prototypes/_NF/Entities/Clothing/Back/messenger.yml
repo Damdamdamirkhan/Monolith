@@ -1221,3 +1221,49 @@
         color: "#ffffff"
       - state: clasp-inhand-right
         color: "#776756"
+
+#Company branded
+- type: entity # Forge-Change
+  parent: ClothingBackpackMessengerContractor
+  id: ClothingBackpackMessengerNexus
+  name: Nexus messenger bag
+  components:
+  - type: Sprite
+    sprite: _NF/Clothing/Back/Messenger/color.rsi
+    layers:
+    - state: icon-base
+      color: "#2a3b63"
+    - state: icon-base-top
+      color: "#98acc2"
+    - state: icon-sling
+      color: "#3b4360"
+    - state: icon-clasp
+      color: "#e1af4e"
+  - type: Clothing
+    sprite: _NF/Clothing/Back/Messenger/color.rsi
+    clothingVisuals:
+      back:
+      - state: base-equipped-BACKPACK
+        color: "#2a3b63"
+      - state: base-top-equipped-BACKPACK
+        color: "#98acc2"
+      - state: sling-equipped-BACKPACK
+        color: "#3b4360"
+      - state: clasp-equipped-BACKPACK
+        color: "#e1af4e"
+  - type: Item
+    inhandVisuals:
+      left:
+      - state: base-inhand-left
+        color: "#2a3b63"
+      - state: base-top-inhand-left
+        color: "#98acc2"
+      - state: clasp-inhand-left
+        color: "#e1af4e"
+      right:
+      - state: base-inhand-right
+        color: "#2a3b63"
+      - state: base-top-inhand-right
+        color: "#98acc2"
+      - state: clasp-inhand-right
+        color: "#e1af4e"

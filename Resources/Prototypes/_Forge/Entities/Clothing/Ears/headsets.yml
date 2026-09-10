@@ -103,6 +103,22 @@
   - type: Clothing
     sprite: _Forge/Clothing/Ears/Headsets/headset_techniclogistic.rsi
 
+- type: entity # Forge-Change
+  parent: [ClothingHeadsetAlt, BaseFactionGearOtherFactionT0]
+  id: ClothingHeadsetNexus
+  name: headset Nexus
+  suffix: Nexus
+  description: Nexus-branded headset.
+  components:
+  - type: ContainerFill
+    containers:
+      key_slots:
+      - EncryptionKeyCommon
+  - type: Sprite
+    sprite: _Forge/Clothing/Ears/Headsets/headset_nexus.rsi # Forge-Change
+  - type: Clothing
+    sprite: _Forge/Clothing/Ears/Headsets/headset_nexus.rsi # Forge-Change
+
 #region Other
 - type: entity
   abstract: true

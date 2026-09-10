@@ -146,6 +146,13 @@
     ClothingUniformJumpsuitNexusWorker: 5
     ClothingUniformJumpsuitNexusSecurity: 5
     ClothingHandsGlovesCombatNexus: 5
+    ClothingBackpackDuffelNexus: 5 # Forge-Change
+    ClothingBackpackSatchelNexus: 5 # Forge-Change
+    ClothingBackpackNexus: 5 # Forge-Change
+    ClothingHeadsetNexus: 5 # Forge-Change
+    ClothingNeckCloakNexus: 5 # Forge-Change
+    ClothingBackpackMessengerNexus: 5 # Forge-Change
+    ClothingNeckMantleNexus: 5 # Forge-Change
     EncryptionKeyNexus: 2
     TelecomServerFlatpack: 1
     DisciplinesDiskNSC: 2

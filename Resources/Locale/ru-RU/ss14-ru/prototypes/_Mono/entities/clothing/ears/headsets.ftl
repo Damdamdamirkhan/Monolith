@@ -15,3 +15,7 @@ ent-ClothingHeadsetUSSP = гарнитура СССП
 ent-ClothingHeadsetAltVanguardCommand = полноразмерная командная гарнитура «Авангард»
 ent-ClothingHeadsetAltCentComSR = { ent-ClothingHeadsetAltCentCom }
     .desc = { ent-ClothingHeadsetAltCentCom.desc }
+
+#Company branded
+ent-ClothingHeadsetNexus = гарнитура Nexus
+    .desc = Фирменная гарнитура Nexus.
