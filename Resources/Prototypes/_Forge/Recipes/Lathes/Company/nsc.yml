@@ -255,7 +255,7 @@
   materials:
     Cloth: 800
 
-- type: latheRecipe # Forge-Change
+- type: latheRecipe
   parent: NSCApparelRecipe
   id: ClothingBackpackDuffelNexus
   result: ClothingBackpackDuffelNexus
@@ -263,7 +263,7 @@
   materials:
     Cloth: 1000
 
-- type: latheRecipe # Forge-Change
+- type: latheRecipe
   parent: NSCApparelRecipe
   id: ClothingBackpackSatchelNexus
   result: ClothingBackpackSatchelNexus
@@ -271,7 +271,7 @@
   materials:
     Cloth: 1000
 
-- type: latheRecipe # Forge-Change
+- type: latheRecipe
   parent: NSCApparelRecipe
   id: ClothingBackpackNexus
   result: ClothingBackpackNexus
@@ -279,7 +279,7 @@
   materials:
     Cloth: 1000
 
-- type: latheRecipe # Forge-Change
+- type: latheRecipe
   parent: NSCApparelRecipe
   id: ClothingHeadsetNexus
   result: ClothingHeadsetNexus
@@ -288,7 +288,7 @@
     Cloth: 1000
     Steel: 500
 
-- type: latheRecipe # Forge-Change
+- type: latheRecipe
   parent: NSCApparelRecipe
   id: ClothingNeckCloakNexus
   result: ClothingNeckCloakNexus
@@ -296,7 +296,7 @@
   materials:
     Cloth: 1000
 
-- type: latheRecipe # Forge-Change
+- type: latheRecipe
   parent: NSCApparelRecipe
   id: ClothingBackpackMessengerNexus
   result: ClothingBackpackMessengerNexus
@@ -304,7 +304,7 @@
   materials:
     Cloth: 1000
 
-- type: latheRecipe # Forge-Change
+- type: latheRecipe
   parent: NSCApparelRecipe
   id: ClothingNeckMantleNexus
   result: ClothingNeckMantleNexus

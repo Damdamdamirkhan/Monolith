@@ -24,7 +24,7 @@
     price: 50
     vendPrice: 100
 
-- type: entity # Forge-Change
+- type: entity
   parent: ClothingNeckBase
   id: ClothingNeckMantleNexus
   name: mantle Nexus.

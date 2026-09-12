@@ -8,13 +8,3 @@
   components:
   - type: Sprite
     sprite: _Mono/Clothing/Back/Backpacks/di.rsi
-
-- type: entity # Forge-Change
-  parent: NFClothingBackpack
-  id: ClothingBackpackNexus
-  name: nexus backpack
-  suffix: Nexus
-  description: Nexus branded backpack
-  components:
-  - type: Sprite
-    sprite: _Mono/Clothing/Back/Backpacks/backpacks_nexus.rsi

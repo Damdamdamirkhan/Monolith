@@ -8,14 +8,3 @@
   components:
   - type: Sprite
     sprite: _Mono/Clothing/Back/Satchels/di.rsi
-
-- type: entity # Forge-Change
-  parent: ClothingBackpackSatchel
-  id: ClothingBackpackSatchelNexus
-  name: exus bag
-  suffix: Nexus
-  description: Nexus branded bag
-  components:
-  - type: Sprite
-    sprite: _Mono/Clothing/Back/Satchels/satchels_nexus.rsi
-

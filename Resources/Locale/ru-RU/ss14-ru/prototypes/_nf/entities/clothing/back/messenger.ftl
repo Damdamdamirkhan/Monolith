@@ -75,6 +75,6 @@ ent-ClothingBackpackMessengerColorBrown = коричневый мессендж�
 ent-ClothingBackpackMessengerColorWhite = белый мессенджер
     .desc = Модная сумка-мессенджер в стильной цветовой гамме.
 
-#Company branded # Forge-Change
+#Company branded
 ent-ClothingBackpackMessengerNexus = мессенджер Nexus
     .desc = Модная сумка-мессенджер в стильной цветовой гамме.

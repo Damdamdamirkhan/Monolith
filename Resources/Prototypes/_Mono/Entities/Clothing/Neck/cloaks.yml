@@ -115,13 +115,3 @@
     sprite: Clothing/Neck/Cloaks/centcomcloakformal.rsi
   - type: StealTarget
     stealGroup: HeadCloak # leaving this here because I suppose it might be interesting?
-
-#Company branded
-- type: entity # Forge-Change
-  parent: ClothingNeckBase
-  id: ClothingNeckCloakNexus
-  name: nexus cloak
-  description: A Nexus cloak.
-  components:
-  - type: Sprite
-    sprite: _Mono/Clothing/Neck/Cloaks/cloaks_nexus.rsi
