@@ -1,4 +1,3 @@
-
 ent-ClothingBackpackDuffelDrakeIndustries = вещевой мешок Drake Industries
     .suffix = Drake
     .desc = Тяжёлый мешок. Пытались облегчить — без особого успеха. Цвета Drake Industries.
