@@ -21,3 +21,5 @@ ent-ClothingNeckMantleUI = мантия U.I.
 
 ent-ClothingNeckMantleNexus = мантия Nexus
     .desc = Мантия, гордо разукрашенная в цвета Nexus.
+ent-ClothingNeckCloakNexus = плащ Nexus
+    .desc = Стильный плащ Nexus.

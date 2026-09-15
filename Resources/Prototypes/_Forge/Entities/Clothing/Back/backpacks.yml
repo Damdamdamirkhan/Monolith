@@ -93,4 +93,4 @@
   description: Nexus branded backpack
   components:
   - type: Sprite
-    sprite: _Mono/Clothing/Back/Backpacks/backpacks_nexus.rsi
+    sprite: _Forge/Clothing/Back/Backpacks/backpacks_nexus.rsi
